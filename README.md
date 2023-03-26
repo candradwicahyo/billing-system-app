@@ -13,6 +13,7 @@ kode sudah saya sertakan dengan komentar supaya kalian para programmer pemula bi
 ## lainnya
 
 * [bootstrap](https://getbootstrap.com)
+* [sweetalert](https://sweetalert2.github.io)
 
 ## kontributor
 
