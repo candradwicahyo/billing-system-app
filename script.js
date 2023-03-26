@@ -111,9 +111,8 @@ window.onload = () => {
   });
   
   function deleteItem(param) {
-    // dapatkan element
+    // dapatkan element "<tr>"
     const tr = param.parentElement.parentElement;
-    const nameItem = tr.children[0].textContent.toLowerCase();
     // hapus element array yang sesuai dengan index element "<tr>"
     items.splice((tr.rowIndex - 1), 1);
     // update total biaya
